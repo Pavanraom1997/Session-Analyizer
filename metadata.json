@@ -1,0 +1,8 @@
+{
+  "name": "Vedantu Session Analyzer",
+  "description": "A production-grade platform for analyzing online teaching sessions using classical computer vision, signal processing, and rule-based scoring systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
